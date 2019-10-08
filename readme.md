@@ -4,7 +4,13 @@
 
 ### Install Dependencies
 
+`npm install`
+
 `composer install`
+
+### Compile Assets
+
+`node_modules\.bin\gulp`
 
 ### Run
 
