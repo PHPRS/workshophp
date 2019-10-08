@@ -1,6 +1,7 @@
 {
     "name": "phprs/workshophp",
     "description": "Projeto destinado ao workshop 'PHP para Iniciantes'",
+    "licence": "MIT",
     "authors": [
         {
             "name": "PHPRS",
